@@ -61,5 +61,3 @@ app.use("/post", postRoutes);
 app.listen(process.env.PORT, () => {
   console.log("Server is running, you better catch it!");
 });
-
-//Making a small change to test something.
